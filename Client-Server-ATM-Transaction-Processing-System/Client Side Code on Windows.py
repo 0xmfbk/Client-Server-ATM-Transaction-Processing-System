@@ -6,7 +6,7 @@ import os
 # Screen Clear & Use pyfiglet to display the banner
 
 os.system('cls')
-banner = pyfiglet.figlet_format("Mustafa.BK")
+banner = pyfiglet.figlet_format("0xmfbk.BK")
 print(banner)
 
 
