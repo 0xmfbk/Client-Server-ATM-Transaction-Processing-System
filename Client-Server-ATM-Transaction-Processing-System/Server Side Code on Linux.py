@@ -57,7 +57,7 @@ def handle_client(client_socket):
 # Screen clear & Server banner by use figlet to display banner
 
 os.system('clear')
-os.system('figlet Mustafa.BK')
+os.system('figlet 0xmfbk.BK')
 
 
 # Smaller title for the client
